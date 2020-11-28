@@ -25,3 +25,4 @@ Forge版本（Forge version）：**2847**
 1. UI冲突，已通过配置将问题最小化，如果发现比较严重的UI冲突请反馈或PR。translation：UI conflicts, the problem has been minimized through configuration, if you find serious UI conflicts, please issues or pull requests
 2. 根据一些测试人员的反馈，存在滞后问题，但是当作者测试该问题时并未发现。 请保持警惕，如果出现滞后，请比较完整地记住发生滞后的环境，以便作者进行测试和修复。translation：According to feedback from some testers, there is a lag problem, but the authors did not find this problem when they tested it. Please be vigilant. If a lag occurs, please remember the environment in which it happened so that the author can test and repair.
 
+脚本暂不上传（Script not uploaded yet）
