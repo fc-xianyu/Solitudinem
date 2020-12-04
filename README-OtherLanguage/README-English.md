@@ -26,3 +26,5 @@ Language support：**American English(en_US) & Simplified Chinese**
 
 1. UI conflicts, the problem has been minimized through configuration, if you find serious UI conflicts, please issues or pull requests
 2. According to feedback from some testers, there is a lag problem, but the authors did not find this problem when they tested it. Please be vigilant. If a lag occurs, please remember the environment in which it happened so that the author can test and repair.
+
+Script not uploaded yet
