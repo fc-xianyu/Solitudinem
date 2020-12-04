@@ -1,6 +1,8 @@
 # Solitudinem
 
-*My English is not very good, please forgive my poor translation*
+Language : [English](/README-English.md) | [简体中文](/README.md)
+
+*My English is not very good, please forgive my poor translation(English version README produced by the author)*
 
 ## Basic introduction
 

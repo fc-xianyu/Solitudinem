@@ -1,6 +1,6 @@
 # Solitudinem
 
-Other Language : [English](/README-OtherLanguage/README-English.md) |
+Language : [English](/README-English.md) | [简体中文](/README.md)
 
 ## 基本介绍
 
