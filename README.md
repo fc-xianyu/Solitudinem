@@ -27,5 +27,25 @@ Forge版本：**2847**
 1. UI冲突，已通过配置将问题最小化，如果发现比较严重的UI冲突请反馈或PR。
 2. 根据一些测试人员的反馈，存在滞后问题，但是当作者测试该问题时并未发现。 请保持警惕，如果出现滞后，请比较完整地记住发生滞后的环境，以便作者进行测试和修复。
 
-脚本暂不上传
 
+
+## 更新日志
+
+Beta版本放出的之前Alpha版本改动日志由于更新较为频繁所以不以版本号而是以日期形式呈现。
+
+***2020/12/11***
+
+1. 删除模组CustomLoadingScreen
+2. 删除模组Galacticraft
+3. 删除模组Galacticraft Planets
+4. 删除模组MicdoodleCore
+5. 删除模组GalaxySpace
+6. 删除模组AsmodeusCore
+7. 删除模组InGameInfoXML BloodMagic附属
+8. 删除模组InGameInfoXML Thaumcraft附属
+9. 添加模组Advanced Rocketry
+10. 添加模组Advanced Rocketry Tweaker
+11. 添加模组Libvulpes
+12. 删改InGameInfoXML配置文件
+
+脚本暂不上传

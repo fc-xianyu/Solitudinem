@@ -31,18 +31,6 @@
         </line>
         <line>
             <icon>
-                <str>thaumcraft:goggles</str>
-            </icon>
-            <str> Permanent warp: $4{thaumwarpperm}$f Normal warp: $3{thaumwarpnormal}$f Temporary warp: $3{thaumwarptemp}</str>
-        </line>
-        <line>
-            <icon>
-                <str>bloodmagic:altar</str>
-            </icon>
-            <str> LP: $6{bmcurrentlp}$f (Orb Tier: $6{bmorbtier}$f)</str>
-        </line>
-        <line>
-            <icon>
                 <str>sereneseasons:textures/items/ss_icon.png</str>
                 <op>
                     <str>eq</str>
