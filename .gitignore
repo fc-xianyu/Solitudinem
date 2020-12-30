@@ -8,6 +8,9 @@
 /XaeroWorldMap/
 /local/
 /logs/
+/texturepacks/
+/server-resource-packs/
+/hammercore/
 
 *.log
 /.ReAuth.cfg
