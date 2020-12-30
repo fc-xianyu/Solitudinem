@@ -1,0 +1,14 @@
+/.mixin.out/
+/asm/
+/astralsorcery/
+/coremods/
+/screenshots/
+/saves/
+/mods/
+/XaeroWorldMap/
+/local/
+/logs/
+
+*.log
+/.ReAuth.cfg
+/icon.png
