@@ -11,6 +11,7 @@
 /texturepacks/
 /server-resource-packs/
 /hammercore/
+/crash-reports/
 
 *.log
 /.ReAuth.cfg

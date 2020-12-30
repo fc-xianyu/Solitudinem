@@ -71,4 +71,12 @@ Forge版本：**2847**
 7. 添加模组In Game Wiki
 8. 更改Dynamic Surroundings配置文件
 
-脚本暂不上传
+## 鸣谢
+
+- [MinecraftForge](https://github.com/MinecraftForge)团队。
+- 所有Mod的发起者以及贡献者，无论作品好坏。
+- [Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)项目发起者以及贡献者。
+- Mod Coder Pack反混淆项目
+- Mojang公司
+- 部分尚未提及者
+
