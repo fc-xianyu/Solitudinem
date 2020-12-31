@@ -3,20 +3,20 @@
     "adapter": "minecraft:furnace",
     "modifiers": [
         {
-            "target": "modularmachinery:item",
             "io": "output",
+            "target": "item",
             "operation": 1,
             "multiplier": 3.0
         },
         {
-            "target": "modularmachinery:item",
             "io": "input",
+            "target": "item",
             "operation": 1,
             "multiplier": 3.0
         },
         {
-            "target": "modularmachinery:duration",
             "io": "input",
+            "target": "duration",
             "operation": 0,
             "multiplier": 40
         }

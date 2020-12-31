@@ -4,19 +4,19 @@
     "recipeTime": 120,
     "requirements": [
         {
-            "type": "modularmachinery:energy",
+            "type": "energy",
             "io-type": "input",
             "energyPerTick": 16
         },
         {
-            "type": "modularmachinery:item",
+            "type": "item",
             "io-type": "output",
             "item": "minecraft:gunpowder",
             "amount": 1,
             "chance": 0.6
         },
         {
-            "type": "modularmachinery:item",
+            "type": "item",
             "io-type": "input",
             "item": "ore:dustGlowstone",
             "amount": 1

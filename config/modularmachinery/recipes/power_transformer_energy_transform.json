@@ -4,12 +4,12 @@
     "recipeTime": 1,
     "requirements": [
         {
-            "type": "modularmachinery:energy",
+            "type": "energy",
             "io-type": "input",
             "energyPerTick": 128
         },
         {
-            "type": "modularmachinery:energy",
+            "type": "energy",
             "io-type": "output",
             "energyPerTick": 128
         }

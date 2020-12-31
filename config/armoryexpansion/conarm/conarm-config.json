@@ -222,7 +222,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "treatedwood",
+    "name": "steeleaf",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -248,7 +248,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "steeleaf",
+    "name": "treatedwood",
     "material": true,
     "fluid": false,
     "traits": true,

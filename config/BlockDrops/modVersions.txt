@@ -232,7 +232,6 @@
   "gasconduits": "1.12.2-1.2.3",
   "enderiobase": "5.2.59",
   "coroutil": "1.12.1-1.2.37",
-  "chisel": "MC1.12.2-1.0.2.45",
   "infinitylib": "1.12.2-1.12.0",
   "xaerominimap_core": "1.12.2-1.0",
   "armoryexpansion-iceandfire": "1.4.2",

@@ -4,36 +4,36 @@
     "recipeTime": 120,
     "requirements": [
         {
-            "type": "modularmachinery:energy",
+            "type": "energy",
             "io-type": "input",
             "energyPerTick": 20
         },
         {
-            "type": "modularmachinery:item",
+            "type": "item",
             "io-type": "output",
             "item": "modularmachinery:itemmodularium",
             "amount": 4
         },
         {
-            "type": "modularmachinery:item",
+            "type": "item",
             "io-type": "input",
             "item": "ore:ingotIron",
             "amount": 1
         },
         {
-            "type": "modularmachinery:item",
+            "type": "item",
             "io-type": "input",
             "item": "ore:ingotGold",
             "amount": 1
         },
         {
-            "type": "modularmachinery:item",
+            "type": "item",
             "io-type": "input",
             "item": "ore:dustRedstone",
             "amount": 1
         },
         {
-            "type": "modularmachinery:item",
+            "type": "item",
             "io-type": "input",
             "item": "ore:dustGlowstone",
             "amount": 1
