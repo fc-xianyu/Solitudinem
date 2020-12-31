@@ -81,6 +81,7 @@ Forge版本：**2847**
 6. 删除模组Tinkers' Addons
 7. 删除模组Tinkers' Complement
 8. 删除模组Tinkers' JEI
+9. 调整Config
 
 ## 鸣谢
 
