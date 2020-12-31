@@ -32,7 +32,7 @@
         <line>
             <icon>
                 <str>sereneseasons:textures/items/ss_icon.png</str>
-                <op>
+                <op>                    <!-- iconx -->
                     <str>eq</str>
                     <var>sereneseasonscurrentseasonord</var>
                     <num>0</num>
@@ -45,7 +45,7 @@
                     <num>0</num>
                     <num>0</num>
                 </op>
-                <op>
+                <op>                    <!-- icony -->
                     <str>eq</str>
                     <var>sereneseasonscurrentseasonord</var>
                     <num>0</num>
@@ -58,11 +58,10 @@
                     <num>16</num>
                     <num>0</num>
                 </op>
-                <num>16</num>
-                <num>16</num>
-                <num>32</num>
-                <num>32</num>
-            </icon>
+                <num>16</num>                <!-- iconwidth -->
+                <num>16</num>                <!-- iconheight -->
+                <num>32</num>                <!-- texwidth -->
+                <num>32</num>                <!-- texheight --></icon>
             <str> $rMinecraft Year $3</str>
             <add>
                 <round>
@@ -89,9 +88,22 @@
             <str>$6{mctime12} $r</str>
             <if>
                 <var>daytime</var>
-                <str>$e(Day)</str>
-                <str>$7(Night)</str>
+                <str>$f(Day</str>
+                <str>$f(Night</str>
             </if>
+            <op>
+                <str>eq</str>
+                <var>sereneseasonscurrentseasonord</var>
+                <num>0</num>
+                <num>1</num>
+                <num>2</num>
+                <num>3</num>
+                <str>, $fSpring)</str>
+                <str>, $fSummer)</str>
+                <str>, $fAutumn)</str>
+                <str>, $fWinter)</str>
+                <str>, $fError)</str>
+            </op>
         </line>
         <line>
             <icon>
