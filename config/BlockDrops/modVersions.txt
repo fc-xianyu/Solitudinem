@@ -133,6 +133,7 @@
   "carryon": "1.12.3",
   "thaumcraft": "6.1.BETA26",
   "mcjtylib_ng": "3.5.4",
+  "fbp": "2.4.1",
   "twilightforest": "3.10.1013",
   "thaumictinkerer": "1.12.2-5.0-620a0c5",
   "extratrees": "2.5.1.203",
@@ -225,6 +226,5 @@
   "infinitylib": "1.12.2-1.12.0",
   "xaerominimap_core": "1.12.2-1.0",
   "foamfix": "0.10.10-1.12.2",
-  "mjrlegendslib": "1.12.2-1.2.0",
-  "betterfoliage": "2.3.1"
+  "mjrlegendslib": "1.12.2-1.2.0"
 }

@@ -94,9 +94,6 @@ key_Change Caster Focus:0
 key_Misc Caster Toggle:0
 key_keybind.baublesinventory:0
 key_key.toggle_shaders:0
-key_key.conarm.toggle_helm.desc:0
-key_key.conarm.toggle_chest.desc:0
-key_key.conarm.toggle_leg.desc:0
 key_key.betterfoliage.gui:0
 key_bloodmagic.keybind.open_holding:0
 key_bloodmagic.keybind.cycle_holding_pos:0
