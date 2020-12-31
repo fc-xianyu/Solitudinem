@@ -13,6 +13,10 @@
 /hammercore/
 /crash-reports/
 
+/config/topography/examples
+/config/topography/documentation
+/config/topography/images
+
 *.log
 
 /.ReAuth.cfg
