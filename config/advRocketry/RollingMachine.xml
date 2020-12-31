@@ -151,15 +151,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotCobalt</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>jaopca:item_platecobalt</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotSignalum</oreDict>
 			<fluidStack>water;100</fluidStack>
 		</input>
@@ -178,29 +169,11 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotEssenceMetal</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>tconevo:metal;1;18</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotEnderium</oreDict>
 			<fluidStack>water;100</fluidStack>
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material;1;359</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotChaoticMetal</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>tconevo:metal;1;13</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -237,15 +210,6 @@
 		</input>
 		<output>
 			<itemStack>ic2:plate;1;5</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotEnergium</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>tconevo:metal;1;38</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -412,24 +376,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotWyvernMetal</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>tconevo:metal;1;3</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotUUMatter</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>tconevo:metal;1;43</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotAluminium</oreDict>
 			<fluidStack>water;100</fluidStack>
 		</input>
@@ -444,15 +390,6 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material;1;322</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotPrimordial</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>tconevo:metal;1;23</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -484,24 +421,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotBoundMetal</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>tconevo:metal;1;28</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotDraconicMetal</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>tconevo:metal;1;8</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotPlatinum</oreDict>
 			<fluidStack>water;100</fluidStack>
 		</input>
@@ -516,15 +435,6 @@
 		</input>
 		<output>
 			<itemStack>libvulpes:productplate;1;3</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotSentientMetal</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>tconevo:metal;1;33</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -552,15 +462,6 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material;1;328</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotArdite</oreDict>
-			<fluidStack>water;100</fluidStack>
-		</input>
-		<output>
-			<itemStack>jaopca:item_plateardite</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">

@@ -13,12 +13,12 @@
 /hammercore/
 /crash-reports/
 /backups/
-
-/config/topography/examples
-/config/topography/documentation
-/config/topography/images
+/XaeroWorldMap/
+/XaeroWaypoints_BACKUP062020/
+/XaeroWaypoints/
 
 *.log
+*.json
 
 /.ReAuth.cfg
 /icon.png

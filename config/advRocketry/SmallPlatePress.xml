@@ -170,14 +170,6 @@
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
 		<input>
-			<oreDict>blockArdite</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_plateardite;4</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="0" power ="0">
-		<input>
 			<oreDict>blockAstralStarmetal</oreDict>
 		</input>
 		<output>
@@ -190,14 +182,6 @@
 		</input>
 		<output>
 			<itemStack>jaopca:item_plateboron;4</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="0" power ="0">
-		<input>
-			<oreDict>blockCobalt</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_platecobalt;4</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -242,14 +226,6 @@
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
 		<input>
-			<oreDict>oreArdite</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_dustardite;2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="0" power ="0">
-		<input>
 			<oreDict>oreAstralStarmetal</oreDict>
 		</input>
 		<output>
@@ -262,14 +238,6 @@
 		</input>
 		<output>
 			<itemStack>nuclearcraft:dust;2;5</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="0" power ="0">
-		<input>
-			<oreDict>oreCobalt</oreDict>
-		</input>
-		<output>
-			<itemStack>jaopca:item_dustcobalt;2</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">

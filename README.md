@@ -71,6 +71,17 @@ Forge版本：**2847**
 7. 添加模组In Game Wiki
 8. 更改Dynamic Surroundings配置文件
 
+***2020/12/31***
+
+1. 删除模组Topography
+2. 删除模组TConstruct
+3. 删除模组ArmoryExpansion
+4. 删除模组Construct's Armory
+5. 删除模组Tinkers' Evolution
+6. 删除模组Tinkers' Addons
+7. 删除模组Tinkers' Complement
+8. 删除模组Tinkers' JEI
+
 ## 鸣谢
 
 - [MinecraftForge](https://github.com/MinecraftForge)团队。
