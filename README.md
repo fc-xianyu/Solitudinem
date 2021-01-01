@@ -83,6 +83,22 @@ Forge版本：**2847**
 8. 删除模组Tinkers' JEI
 9. 调整Config
 
+***2021/1/1***
+
+2. 更新**CraftTweaker Utils**
+3. 添加模组Advanced Mortars
+4. 添加模组Pyrotech
+5. 添加模组Water Power
+6. 更新模组Athenaeum
+7. 添加模组dropt
+7. 添加模组AquaAcrobatics
+8. 调整config
+9. 由于Xaeros Minimap中出现闪退问题，小地图类型模组恢复为Journeymap
+10. 添加模组TellMe
+11. 删除模组MagicBees
+12. 删除模组JEI Bees
+13. 删除模组BeeBetterAtBees
+
 ## 鸣谢
 
 - [MinecraftForge](https://github.com/MinecraftForge)团队。

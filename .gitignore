@@ -13,9 +13,7 @@
 /hammercore/
 /crash-reports/
 /backups/
-/XaeroWorldMap/
-/XaeroWaypoints_BACKUP062020/
-/XaeroWaypoints/
+/journeymap/
 
 *.log
 *.json
