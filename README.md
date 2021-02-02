@@ -24,16 +24,27 @@ Forge版本：**2847**
 
 ## 已知问题
 
-1. UI冲突，已通过配置将问题最小化，如果发现比较严重的UI冲突请反馈或PR。
+1. UI冲突，已通过配置将问题最小化，如果发现比较严重的UI冲突请反馈或PR，对于信息显示（ingameinfoxml）感到碍眼的玩家可以键入命令`/igi disable InGameInfo.xml`。
 2. 根据一些测试人员的反馈，存在滞后问题，但是当作者测试该问题时并未发现。 请保持警惕，如果出现滞后，请比较完整地记住发生滞后的环境，以便作者进行测试和修复。
+3. 使用死亡后重生附带的“讣告”（gravestone:death_info）会有几率发生崩端，已通过配置禁止重生附带“讣告”。
 
 
 
 ## FAQ
 
-1.键位怎么基本全是NONE？
+### 哪些键位被设置为NONE？
 
-因Mod数量较多，本整合包会比较经常出现键位冲突的情况，作者经过考虑决定将除开基本键位之外的键位全部设置为NONE。玩家可以选择游玩的过程中需要使用到某种功能时再临时设置，也可以进入游戏的第一时间全部设置完成。建议多设置组合键。
+你可以自己为这些NONE键位设置一个合适的键，有些是必须有些无须。
+
+- Journey Map：B键——新建路径点
+- Journey Map：Ctrl+B键——路径点管理器
+- Better Builder's Wands：F键——转换流体模式
+- Better Builder's Wands：M键——转换模式
+- Dynamic Surroundings: HUDs：B键——显示方块碰撞箱
+- Ender IO：G键——关闭/开启玄钢盔甲鞘翅或滑翔功能
+- Minecraft原版：C键——保存物品工具栏
+- Minecraft原版：X键——加载物品工具栏
+- Advanced Rocketry：C键——打开火箭界面
 
 
 
@@ -98,6 +109,94 @@ Forge版本：**2847**
 11. 删除模组MagicBees
 12. 删除模组JEI Bees
 13. 删除模组BeeBetterAtBees
+
+***2021/1/3***
+
+1. 脚本在原作者基础上进行改写
+2. 添加模组BloodArsenal
+3. 添加模组Animus
+4. 添加模组ArmoreableMobs
+
+***20201/1/22（此次更新可能条目错漏，原因是事先未做统计）***
+
+1. 加入模组Better Questing
+2. 加入模组Better Questing - Standard Expansion
+3. 加入模组Better Questing - RF Expansion
+4. 加入模组Valkyrie Lib
+5. 加入模组Mystical Agradditions
+6. 加入模组IvToolkit
+7. 加入模组Etlunar
+8. 加入模组MysticalLib
+9. 加入模组Tool Progression
+10. 加入模组RFTools Control
+11. 加入模组RFTools Dimensions
+12. 加入模组RecurrentComplex
+13. 加入模组PlaneFix
+14. 加入模组Overloaded Armor Bar
+15. 加入模组OldJavaWarning
+16. 加入模组NoNVFlash
+17. 加入模组NoMobSpawningOnTrees
+18. 加入模组Neat+
+19. 加入模组MystAgrad Cloche Compat
+20. 加入模组MysticalAgriculture
+21. 加入模组More Overlays
+22. 加入模组KleeSlabs
+23. 加入模组RebornCore
+24. 加入模组JustSleep
+25. 加入模组JustEnoughPetroleum
+26. 加入模组HungerPersistence
+27. 加入模组HorseTweaks
+28. 加入模组Flat Colored Blocks
+29. 加入模组Fence Jumper
+30. 加入模组Environmental Tech
+31. 加入模组Engineer's Doors
+32. 加入模组Demagnetize
+33. 加入模组DefaultOptions
+34. 加入模组CosmeticArmorReworked
+35. 加入模组CookingForBlockheads
+36. 加入模组CompactSolars
+37. 加入模组Colytra
+38. 加入模组ClayBucket
+39. 加入模组Chisels & Bits
+40. 加入模组Broken Wings
+41. 加入模组Blockcraftery
+42. 加入模组BiblioCraft
+43. 加入模组BetterBuildersWands
+44. 加入模组BetterAdvancements
+45. 加入模组Backpack
+46. 加入模组RandomPatches
+47. 加入模组WaterMechanicsBackport
+48. 加入模组AquaAcrobatics
+49. 加入模组Dropt
+50. 加入模组WaterPower
+51. 加入模组Bowered
+52. 加入模组Pyrotech
+53. 脚本更新
+
+***2020/1/29***
+
+1. 删除mod：InGameWiki
+2. 删除mod：Colytra
+3. 删除mod：Better Foliage
+4. 删除mod：AgriCraft
+5. 删除mod：MysticalAgriculture
+6. 删除mod：MysticalAgradditions
+7. 删除mod：MystAgrad Cloche Compat
+8. 脚本更新
+9. config调改
+
+***2020/2/1***（最水的一次）
+
+1. 脚本更新
+2. 删除mod：Backpacks
+3. 删除mod：GraveStone
+4. 键位调整
+
+***2020/2/2***
+
+1. 删除mod：ChestTransporter
+
+
 
 ## 鸣谢
 

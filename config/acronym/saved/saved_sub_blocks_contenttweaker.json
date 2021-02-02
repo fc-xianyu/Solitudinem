@@ -1,3 +1,14 @@
 {
-  "savedSubBlockNames": {}
+  "savedSubBlockNames": {
+    "0": {
+      "0": "copper_ore",
+      "1": "copper_dense_ore",
+      "2": "copper_poor_ore",
+      "3": "iron_poor_ore",
+      "4": "copper_block",
+      "5": "iron_block",
+      "6": "iron_dense_ore",
+      "7": "iron_ore"
+    }
+  }
 }

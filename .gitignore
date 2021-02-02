@@ -20,3 +20,6 @@
 
 /.ReAuth.cfg
 /icon.png
+/options.txt
+/hotbar.nbt
+/knownkeys.txt
