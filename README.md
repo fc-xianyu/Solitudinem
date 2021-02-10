@@ -223,6 +223,10 @@ SolitudinemUtils会在开发过程中持续更新，当它成为了一个成熟�
 ***2020/2/10***
 
 1. 添加mod：zombieawareness
+2. 添加mod：Quantum Minecraft Dynamics
+3. 删除mod：Extra Utilities 2
+4. 更新NuclearCraft到2o.4.7
+5. config调改
 
 
 

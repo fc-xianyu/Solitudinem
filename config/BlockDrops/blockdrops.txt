@@ -552,7 +552,7 @@
   {
     "name": "minecraft:redstone_ore",
     "meta": 0,
-    "length": 2,
+    "length": 1,
     "name0": "minecraft:redstone",
     "meta0": 0,
     "0chance0": 449.2,
@@ -562,17 +562,7 @@
     "0pair0": "{\n  \"left\": 4,\n  \"right\": 5\n}",
     "1pair0": "{\n  \"left\": 4,\n  \"right\": 6\n}",
     "2pair0": "{\n  \"left\": 4,\n  \"right\": 7\n}",
-    "3pair0": "{\n  \"left\": 4,\n  \"right\": 8\n}",
-    "name1": "extrautils2:ingredients",
-    "meta1": 0,
-    "0chance1": 2.475,
-    "1chance1": 2.85,
-    "2chance1": 2.7,
-    "3chance1": 3.3500001,
-    "0pair1": "{\n  \"left\": 0,\n  \"right\": 2\n}",
-    "1pair1": "{\n  \"left\": 0,\n  \"right\": 2\n}",
-    "2pair1": "{\n  \"left\": 0,\n  \"right\": 3\n}",
-    "3pair1": "{\n  \"left\": 0,\n  \"right\": 2\n}"
+    "3pair0": "{\n  \"left\": 4,\n  \"right\": 8\n}"
   },
   {
     "name": "forestry:ash_block_2",
@@ -670,21 +660,6 @@
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "extrautils2:cursedearth",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:dirt",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 100.0,
-    "2chance0": 100.0,
-    "3chance0": 100.0,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
     "name": "biomesoplenty:gem_ore",
     "meta": 0,
     "length": 1,
@@ -698,21 +673,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "extrautils2:ironwood_log",
-    "meta": 0,
-    "length": 1,
-    "name0": "extrautils2:ironwood_planks",
-    "meta0": 0,
-    "0chance0": 99.025,
-    "1chance0": 98.7,
-    "2chance0": 98.975006,
-    "3chance0": 98.75,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
     "name": "biomesoplenty:crystal",
@@ -1115,21 +1075,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
-    "name": "extrautils2:ironwood_leaves",
-    "meta": 0,
-    "length": 1,
-    "name0": "extrautils2:ironwood_sapling",
-    "meta0": 0,
-    "0chance0": 4.725,
-    "1chance0": 6.6749997,
-    "2chance0": 7.8,
-    "3chance0": 9.925,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
-  },
-  {
     "name": "railcraft:post_metal_platform",
     "meta": 6,
     "length": 1,
@@ -1158,31 +1103,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "extrautils2:ironwood_leaves",
-    "meta": 1,
-    "length": 2,
-    "name0": "minecraft:blaze_powder",
-    "meta0": 0,
-    "0chance0": 0.32500002,
-    "1chance0": 0.475,
-    "2chance0": 0.775,
-    "3chance0": 0.925,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "name1": "extrautils2:ironwood_sapling",
-    "meta1": 1,
-    "0chance1": 4.9,
-    "1chance1": 5.65,
-    "2chance1": 7.95,
-    "3chance1": 10.0,
-    "0pair1": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair1": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "2pair1": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "3pair1": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
     "name": "railcraft:post_metal_platform",
