@@ -143,6 +143,7 @@
   "controlling": "3.0.9",
   "cookingforblockheads": "6.5.0",
   "placebo": "1.6.0",
+  "zombieawareness": "1.12.1-1.11.16",
   "fencejumper": "1.0.5",
   "bookshelf": "2.3.590",
   "streams": "0.4.8",
@@ -262,6 +263,7 @@
   "toolprogression": "1.12.2-1.6.10",
   "infinitylib": "1.12.2-1.12.0",
   "foamfix": "0.10.10-1.12.2",
+  "probe": "0.1.24",
   "mjrlegendslib": "1.12.2-1.2.0",
   "chiselsandbits": "14.33"
 }

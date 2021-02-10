@@ -14,6 +14,7 @@
 /crash-reports/
 /backups/
 /journeymap/
+/scripts/.zsrc
 
 *.log
 *.json

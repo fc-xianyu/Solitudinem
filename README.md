@@ -24,7 +24,7 @@ Forge版本：**2847**
 
 ## 已知问题
 
-1. UI冲突，已通过配置将问题最小化，如果发现比较严重的UI冲突请反馈或PR，对于信息显示（ingameinfoxml）感到碍眼的玩家可以键入命令`/igi disable InGameInfo.xml`。
+1. UI冲突，已通过配置将问题最小化，如果发现比较严重的UI冲突请反馈或PR，对于信息显示（ingameinfoxml）感到碍眼的玩家可以键入命令`/igi disable`。
 2. 根据一些测试人员的反馈，存在滞后问题，但是当作者测试该问题时并未发现。 请保持警惕，如果出现滞后，请比较完整地记住发生滞后的环境，以便作者进行测试和修复。
 3. 使用死亡后重生附带的“讣告”（gravestone:death_info）会有几率发生崩端，已通过配置禁止重生附带“讣告”。
 
@@ -32,19 +32,33 @@ Forge版本：**2847**
 
 ## FAQ
 
-### 哪些键位被设置为NONE？
+### 哪些键位被更改为NONE？
 
-你可以自己为这些NONE键位设置一个合适的键，有些是必须有些无须。
+它们的原键位会引起键位冲突，作者选择了重要性相对较小的键位设置为NONE。你可以自己为这些NONE键位设置一个合适的键，有些是必须有些无须，取决于个人需求，推荐多设置组合键防止冲突。如有作者未发现的键位冲突请反馈。
 
-- Journey Map：B键——新建路径点
-- Journey Map：Ctrl+B键——路径点管理器
-- Better Builder's Wands：F键——转换流体模式
-- Better Builder's Wands：M键——转换模式
-- Dynamic Surroundings: HUDs：B键——显示方块碰撞箱
-- Ender IO：G键——关闭/开启玄钢盔甲鞘翅或滑翔功能
-- Minecraft原版：C键——保存物品工具栏
-- Minecraft原版：X键——加载物品工具栏
-- Advanced Rocketry：C键——打开火箭界面
+| MOD                        | 原键位 | 作用                            |
+| -------------------------- | ------ | ------------------------------- |
+| Journey Map                | B      | 新建路径点                      |
+| Journey Map                | Ctrl+B | 路径点管理器                    |
+| Journey Map                | 反斜杠 | 切换小地图预设样式              |
+| Journey Map                | Z      | 开启所有导航点                  |
+| Journey Map                | 左括号 | 调整地图类型                    |
+| Better Builder's Wands     | F      | 转换流体模式                    |
+| Better Builder's Wands     | M      | 转换模式                        |
+| Dynamic Surroundings: HUDs | B      | 显示方块碰撞箱                  |
+| Ender IO                   | G      | 关闭/开启玄钢盔甲鞘翅或滑翔功能 |
+| Minecraft原版              | C      | 保存物品工具栏                  |
+| Minecraft原版              | X      | 加载物品工具栏                  |
+| Advanced Rocketry          | C      | 打开火箭界面                    |
+| Mekanism                   | H      | 足部装备模式切换                |
+| Mekanism                   | U      | 步话机语音                      |
+| Draconic Evolution         | P      | 在世界中放置物品                |
+
+
+
+## 关于SolitudinemUtils
+
+SolitudinemUtils会在开发过程中持续更新，当它成为了一个成熟的Utils时它会被正式发布。
 
 
 
@@ -185,7 +199,7 @@ Forge版本：**2847**
 8. 脚本更新
 9. config调改
 
-***2020/2/1***（最水的一次）
+***2020/2/1*** ~~（最水的一次）~~
 
 1. 脚本更新
 2. 删除mod：Backpacks
@@ -195,6 +209,20 @@ Forge版本：**2847**
 ***2020/2/2***
 
 1. 删除mod：ChestTransporter
+
+***2020/2/7***
+
+1. 加入模组probe
+2. 更新模组CraftTweaker2到4.1.20.616
+
+***2020/2/9***
+
+1. 键位调整
+2. 脚本更新
+
+***2020/2/10***
+
+1. 添加mod：zombieawareness
 
 
 

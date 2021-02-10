@@ -2598,8 +2598,57 @@ forestry:resource_storage:2, 锡块
 forestry:resource_storage:3, 青铜块
 forestry:ash_brick:0, 灰砖
 forestry:ash_stairs:0, 灰砖楼梯
+forestry:bottler:0, 装瓶机
+forestry:carpenter:0, 木工机
+forestry:centrifuge:0, 离心机
+forestry:fermenter:0, 发酵机
+forestry:moistener:0, 加湿器
+forestry:squeezer:0, 榨汁机
+forestry:still:0, 蒸馏器
+forestry:rainmaker:0, 造雨机
+forestry:fabricator:0, 热电子加工台
+forestry:raintank:0, 集雨蓄水槽
+forestry:greenhouse:0, Greenhouse Block
+forestry:greenhouse:3, 温室能量分配器
+forestry:greenhouse:4, 温室控制器
+forestry:greenhouse:5, 温室屏幕
+forestry:climatiser:0, 温室湿度控制器
+forestry:climatiser:1, 温室加热器
+forestry:climatiser:2, 温室风扇
+forestry:climatiser:3, 温室加湿器
+forestry:climatiser:4, 温室除湿器
+forestry:greenhouse.window:0, 温室窗户
+forestry:greenhouse.window_up:0, 温室天窗
 forestry:habitat_former:0, Habitat Former
 forestry:habitat_screen, Habitat Screen
+forestry:stamps:0, 邮票(1n)
+forestry:stamps:1, 邮票(2n)
+forestry:stamps:2, 邮票(5n)
+forestry:stamps:3, 邮票(10n)
+forestry:stamps:4, 邮票(20n)
+forestry:stamps:5, 邮票(50n)
+forestry:stamps:6, 邮票(100n)
+forestry:letters, 信件
+forestry:catalogue, 贸易目录
+forestry:mailbox:0, 信箱
+forestry:trade_station:0, 贸易站
+forestry:stamp_collector:0, 集邮箱
+forestry:engine_peat:0, 泥炭引擎
+forestry:engine_biogas:0, 沼气引擎
+forestry:engine_clockwork:0, 发条引擎
+forestry:worktable:0, 工作台
+forestry:fluid.bio.ethanol, 种子油
+forestry:fluid.biomass, 生物质
+forestry:fluid.glass, 液态玻璃
+forestry:fluid.for.honey, 蜂蜜
+forestry:fluid.ice, 碎冰
+forestry:fluid.juice, 果汁
+forestry:fluid.milk, 牛奶
+forestry:fluid.seed.oil, 种子油
+forestry:fluid.short.mead, 蜂蜜酒
+forestry:can, item.for.can.name
+forestry:capsule, item.for.capsule.name
+forestry:refractory, item.for.refractory.name
 forestry:lepidopterist_bag, 鳞翅目昆虫学家背包
 forestry:miner_bag, 采矿者背包
 forestry:miner_bag_t2, 采矿者编织背包
@@ -2613,20 +2662,10 @@ forestry:adventurer_bag, 冒险家背包
 forestry:adventurer_bag_t2, 冒险家编织背包
 forestry:builder_bag, 建筑师背包
 forestry:builder_bag_t2, 建筑师编织背包
+forestry:genetic_filter:0, 基因过滤器
 forestry:honeyed_slice, 蜂蜜面包
 forestry:ambrosia, 仙馔密酒
 forestry:honey_pot, 蜜罐
-forestry:greenhouse:0, Greenhouse Block
-forestry:greenhouse:3, 温室能量分配器
-forestry:greenhouse:4, 温室控制器
-forestry:greenhouse:5, 温室屏幕
-forestry:climatiser:0, 温室湿度控制器
-forestry:climatiser:1, 温室加热器
-forestry:climatiser:2, 温室风扇
-forestry:climatiser:3, 温室加湿器
-forestry:climatiser:4, 温室除湿器
-forestry:greenhouse.window:0, 温室窗户
-forestry:greenhouse.window_up:0, 温室天窗
 forestry:charcoal:0, 木炭块
 forestry:wood_pile:0, 原木堆
 forestry:wood_pile_decorative:0, 装饰用原木堆
@@ -2635,45 +2674,7 @@ forestry:ash_block_1:0, Ash Block
 forestry:ash_block_2:0, Ash Block
 forestry:ash_block_3:0, Ash Block
 forestry:loam:0, 壤土
-forestry:book_forester, 林务员手册
-forestry:genetic_filter:0, 基因过滤器
-forestry:bottler:0, 装瓶机
-forestry:carpenter:0, 木工机
-forestry:centrifuge:0, 离心机
-forestry:fermenter:0, 发酵机
-forestry:moistener:0, 加湿器
-forestry:squeezer:0, 榨汁机
-forestry:still:0, 蒸馏器
-forestry:rainmaker:0, 造雨机
-forestry:fabricator:0, 热电子加工台
-forestry:raintank:0, 集雨蓄水槽
-forestry:fluid.bio.ethanol, 种子油
-forestry:fluid.biomass, 生物质
-forestry:fluid.glass, 液态玻璃
-forestry:fluid.for.honey, 蜂蜜
-forestry:fluid.ice, 碎冰
-forestry:fluid.juice, 果汁
-forestry:fluid.milk, 牛奶
-forestry:fluid.seed.oil, 种子油
-forestry:fluid.short.mead, 蜂蜜酒
-forestry:can, item.for.can.name
-forestry:capsule, item.for.capsule.name
-forestry:refractory, item.for.refractory.name
-forestry:database:0, 数据库
-forestry:stamps:0, 邮票(1n)
-forestry:stamps:1, 邮票(2n)
-forestry:stamps:2, 邮票(5n)
-forestry:stamps:3, 邮票(10n)
-forestry:stamps:4, 邮票(20n)
-forestry:stamps:5, 邮票(50n)
-forestry:stamps:6, 邮票(100n)
-forestry:letters, 信件
-forestry:catalogue, 贸易目录
-forestry:mailbox:0, 信箱
-forestry:trade_station:0, 贸易站
-forestry:stamp_collector:0, 集邮箱
 forestry:crate, 板条箱
-forestry:worktable:0, 工作台
 forestry:mushroom:0, tile.for.mushroom.name
 forestry:mushroom:1, tile.for.mushroom.name
 forestry:ffarm:0, 农场方块
@@ -2745,9 +2746,7 @@ forestry:farm_ender:0, 自动末影收割机
 forestry:farm_ender:1, 手动末影收割机
 forestry:peat_bog:0, 自动泥炭沼泽
 forestry:peat_bog:1, 手动泥炭沼泽
-forestry:engine_peat:0, 泥炭引擎
-forestry:engine_biogas:0, 沼气引擎
-forestry:engine_clockwork:0, 发条引擎
+forestry:database:0, 数据库
 forestry:grafter, 剪枝器
 forestry:grafter_proven, 标定剪枝器
 forestry:logs.0:0, 落叶树原木
@@ -3203,6 +3202,7 @@ forestry:tree_chest:0, 林业员箱子
 forestry:butterfly_chest:0, 鳞翅目昆虫学家箱子
 forestry:cocoon:0, tile.for.cocoon.name
 forestry:cocoon.solid:0, tile.for.cocoon.solid.name
+forestry:book_forester, 林务员手册
 forestry:engine_electrical:0, 电动引擎
 forestry:engine_generator:0, 生物质发电机
 binniecore:glass:0, Empty 瓶
@@ -3347,107 +3347,6 @@ genetics:lab_machine:2, 恒温箱
 genetics:lab_machine:3, 基因池
 genetics:lab_machine:4, 适应性调整器
 genetics:adv_machine:0, 基因拼接器
-botany:machine:0, 瓦砖工坊
-botany:plant:0, 杂草
-botany:plant:1, 杂草较多
-botany:plant:2, 杂草丛生
-botany:plant:3, 死花
-botany:plant:4, 花朵腐烂
-botany:soil:0, 土壤
-botany:soil:1, 土壤
-botany:soil:2, 土壤
-botany:soil:3, 土壤
-botany:soil:4, 土壤
-botany:soil:5, 土壤
-botany:soil:6, 土壤
-botany:soil:7, 土壤
-botany:soil:8, 土壤
-botany:loam:0, 壤土
-botany:loam:1, 壤土
-botany:loam:2, 壤土
-botany:loam:3, 壤土
-botany:loam:4, 壤土
-botany:loam:5, 壤土
-botany:loam:6, 壤土
-botany:loam:7, 壤土
-botany:loam:8, 壤土
-botany:flowerbed:0, 花坛
-botany:flowerbed:1, 花坛
-botany:flowerbed:2, 花坛
-botany:flowerbed:3, 花坛
-botany:flowerbed:4, 花坛
-botany:flowerbed:5, 花坛
-botany:flowerbed:6, 花坛
-botany:flowerbed:7, 花坛
-botany:flowerbed:8, 花坛
-botany:soil_no_weed:0, 土壤
-botany:soil_no_weed:1, 土壤
-botany:soil_no_weed:2, 土壤
-botany:soil_no_weed:3, 土壤
-botany:soil_no_weed:4, 土壤
-botany:soil_no_weed:5, 土壤
-botany:soil_no_weed:6, 土壤
-botany:soil_no_weed:7, 土壤
-botany:soil_no_weed:8, 土壤
-botany:loam_no_weed:0, 壤土
-botany:loam_no_weed:1, 壤土
-botany:loam_no_weed:2, 壤土
-botany:loam_no_weed:3, 壤土
-botany:loam_no_weed:4, 壤土
-botany:loam_no_weed:5, 壤土
-botany:loam_no_weed:6, 壤土
-botany:loam_no_weed:7, 壤土
-botany:loam_no_weed:8, 壤土
-botany:flowerbed_no_weed:0, 花坛
-botany:flowerbed_no_weed:1, 花坛
-botany:flowerbed_no_weed:2, 花坛
-botany:flowerbed_no_weed:3, 花坛
-botany:flowerbed_no_weed:4, 花坛
-botany:flowerbed_no_weed:5, 花坛
-botany:flowerbed_no_weed:6, 花坛
-botany:flowerbed_no_weed:7, 花坛
-botany:flowerbed_no_weed:8, 花坛
-botany:soil_meter, 土壤检测计
-botany:trowel_wood, 木质泥铲
-botany:trowel_stone, 石质泥铲
-botany:trowel_iron, 铁质泥铲
-botany:trowel_diamond, 钻石泥铲
-botany:trowel_gold, 金质泥铲
-botany:misc:0, 灰烬粉
-botany:misc:1, 木浆粉
-botany:misc:2, 覆盖戍粉
-botany:misc:3, 硫磺粉
-botany:misc:4, 肥料粉
-botany:misc:5, 堆肥粉
-botany:misc:6, 砂浆
-botany:misc:7, 除草剂
-botany:botanist_bag, 园丁背包
-botany:database:0, 植物学家数据库
-botany:database:1, 植物学家大师数据库
-botany:insulated_tube:0, 铜-粘土绝缘电子管
-botany:insulated_tube:128, 铜-圆石绝缘电子管
-botany:insulated_tube:256, 铜-砂岩绝缘电子管
-botany:insulated_tube:384, 铜-硬化粘土绝缘电子管
-botany:insulated_tube:512, 铜-石头绝缘电子管
-botany:insulated_tube:640, 铜-砂岩绝缘电子管
-botany:insulated_tube:1, 锡-粘土绝缘电子管
-botany:insulated_tube:129, 锡-圆石绝缘电子管
-botany:insulated_tube:257, 锡-砂岩绝缘电子管
-botany:insulated_tube:385, 锡-硬化粘土绝缘电子管
-botany:insulated_tube:513, 锡-石头绝缘电子管
-botany:insulated_tube:641, 锡-砂岩绝缘电子管
-botany:insulated_tube:2, 青铜-粘土绝缘电子管
-botany:insulated_tube:130, 青铜-圆石绝缘电子管
-botany:insulated_tube:258, 青铜-砂岩绝缘电子管
-botany:insulated_tube:386, 青铜-硬化粘土绝缘电子管
-botany:insulated_tube:514, 青铜-石头绝缘电子管
-botany:insulated_tube:642, 青铜-砂岩绝缘电子管
-botany:insulated_tube:3, 铁-粘土绝缘电子管
-botany:insulated_tube:131, 铁-圆石绝缘电子管
-botany:insulated_tube:259, 铁-砂岩绝缘电子管
-botany:insulated_tube:387, 铁-硬化粘土绝缘电子管
-botany:insulated_tube:515, 铁-石头绝缘电子管
-botany:insulated_tube:643, 铁-砂岩绝缘电子管
 botany:ceramic:0, 碧蓝陶瓷块
 botany:ceramic:1, 黑陶瓷块
 botany:ceramic:2, 深蓝陶瓷块
@@ -3783,6 +3682,107 @@ botany:clay:77, 白粘土
 botany:clay:78, 黄粘土
 botany:clay:79, 黄绿粘土
 botany:misc_ceramic:0, 砂浆
+botany:machine:0, 瓦砖工坊
+botany:plant:0, 杂草
+botany:plant:1, 杂草较多
+botany:plant:2, 杂草丛生
+botany:plant:3, 死花
+botany:plant:4, 花朵腐烂
+botany:soil:0, 土壤
+botany:soil:1, 土壤
+botany:soil:2, 土壤
+botany:soil:3, 土壤
+botany:soil:4, 土壤
+botany:soil:5, 土壤
+botany:soil:6, 土壤
+botany:soil:7, 土壤
+botany:soil:8, 土壤
+botany:loam:0, 壤土
+botany:loam:1, 壤土
+botany:loam:2, 壤土
+botany:loam:3, 壤土
+botany:loam:4, 壤土
+botany:loam:5, 壤土
+botany:loam:6, 壤土
+botany:loam:7, 壤土
+botany:loam:8, 壤土
+botany:flowerbed:0, 花坛
+botany:flowerbed:1, 花坛
+botany:flowerbed:2, 花坛
+botany:flowerbed:3, 花坛
+botany:flowerbed:4, 花坛
+botany:flowerbed:5, 花坛
+botany:flowerbed:6, 花坛
+botany:flowerbed:7, 花坛
+botany:flowerbed:8, 花坛
+botany:soil_no_weed:0, 土壤
+botany:soil_no_weed:1, 土壤
+botany:soil_no_weed:2, 土壤
+botany:soil_no_weed:3, 土壤
+botany:soil_no_weed:4, 土壤
+botany:soil_no_weed:5, 土壤
+botany:soil_no_weed:6, 土壤
+botany:soil_no_weed:7, 土壤
+botany:soil_no_weed:8, 土壤
+botany:loam_no_weed:0, 壤土
+botany:loam_no_weed:1, 壤土
+botany:loam_no_weed:2, 壤土
+botany:loam_no_weed:3, 壤土
+botany:loam_no_weed:4, 壤土
+botany:loam_no_weed:5, 壤土
+botany:loam_no_weed:6, 壤土
+botany:loam_no_weed:7, 壤土
+botany:loam_no_weed:8, 壤土
+botany:flowerbed_no_weed:0, 花坛
+botany:flowerbed_no_weed:1, 花坛
+botany:flowerbed_no_weed:2, 花坛
+botany:flowerbed_no_weed:3, 花坛
+botany:flowerbed_no_weed:4, 花坛
+botany:flowerbed_no_weed:5, 花坛
+botany:flowerbed_no_weed:6, 花坛
+botany:flowerbed_no_weed:7, 花坛
+botany:flowerbed_no_weed:8, 花坛
+botany:soil_meter, 土壤检测计
+botany:trowel_wood, 木质泥铲
+botany:trowel_stone, 石质泥铲
+botany:trowel_iron, 铁质泥铲
+botany:trowel_diamond, 钻石泥铲
+botany:trowel_gold, 金质泥铲
+botany:misc:0, 灰烬粉
+botany:misc:1, 木浆粉
+botany:misc:2, 覆盖戍粉
+botany:misc:3, 硫磺粉
+botany:misc:4, 肥料粉
+botany:misc:5, 堆肥粉
+botany:misc:6, 砂浆
+botany:misc:7, 除草剂
+botany:botanist_bag, 园丁背包
+botany:database:0, 植物学家数据库
+botany:database:1, 植物学家大师数据库
+botany:insulated_tube:0, 铜-粘土绝缘电子管
+botany:insulated_tube:128, 铜-圆石绝缘电子管
+botany:insulated_tube:256, 铜-砂岩绝缘电子管
+botany:insulated_tube:384, 铜-硬化粘土绝缘电子管
+botany:insulated_tube:512, 铜-石头绝缘电子管
+botany:insulated_tube:640, 铜-砂岩绝缘电子管
+botany:insulated_tube:1, 锡-粘土绝缘电子管
+botany:insulated_tube:129, 锡-圆石绝缘电子管
+botany:insulated_tube:257, 锡-砂岩绝缘电子管
+botany:insulated_tube:385, 锡-硬化粘土绝缘电子管
+botany:insulated_tube:513, 锡-石头绝缘电子管
+botany:insulated_tube:641, 锡-砂岩绝缘电子管
+botany:insulated_tube:2, 青铜-粘土绝缘电子管
+botany:insulated_tube:130, 青铜-圆石绝缘电子管
+botany:insulated_tube:258, 青铜-砂岩绝缘电子管
+botany:insulated_tube:386, 青铜-硬化粘土绝缘电子管
+botany:insulated_tube:514, 青铜-石头绝缘电子管
+botany:insulated_tube:642, 青铜-砂岩绝缘电子管
+botany:insulated_tube:3, 铁-粘土绝缘电子管
+botany:insulated_tube:131, 铁-圆石绝缘电子管
+botany:insulated_tube:259, 铁-砂岩绝缘电子管
+botany:insulated_tube:387, 铁-硬化粘土绝缘电子管
+botany:insulated_tube:515, 铁-石头绝缘电子管
+botany:insulated_tube:643, 铁-砂岩绝缘电子管
 extratrees:misc:0, 锯末
 extratrees:misc:1, 树皮
 extratrees:misc:2, 标定齿轮
@@ -3862,6 +3862,29 @@ extratrees:food:59, 石栗
 extratrees:hammer, 锤子
 extratrees:durable_hammer, item.durable_hammer.name
 extratrees:hops, 啤酒花
+extratrees:drink:0, 啤酒杯
+extratrees:drink:0, 品脱杯
+extratrees:drink:0, 窄口酒杯
+extratrees:drink:0, 细长酒杯
+extratrees:drink:0, 鸡尾酒杯
+extratrees:drink:0, 甜果汁杯
+extratrees:drink:0, 可林斯杯
+extratrees:drink:0, 高球杯
+extratrees:drink:0, 飓风杯
+extratrees:drink:0, 玛格丽塔酒杯
+extratrees:drink:0, 老式酒杯
+extratrees:drink:0, 葡萄酒杯
+extratrees:drink:0, 小酒杯
+extratrees:drink:0, 雪利酒杯
+extratrees:drink:0, 香槟杯
+extratrees:drink:0, 葡萄酒杯
+extratrees:machine:0, 锯木机
+extratrees:machine:1, 木材作坊
+extratrees:machine:2, 镶板作坊
+extratrees:machine:4, 水果压榨机
+extratrees:machine:5, 发酵机
+extratrees:machine:6, 蒸馏器
+extratrees:machine:7, 玻璃作坊
 extratrees:logs.0:0, 苹果树原木
 extratrees:logs.0:1, 无花果树原木
 extratrees:logs.0:2, 灰胡桃树原木
@@ -4438,33 +4461,10 @@ extratrees:leaves.decorative.5:15, 树叶
 extratrees:leaves.decorative.6:0, 树叶
 extratrees:shrub_log:0, 灌木原木
 extratrees:databasetree, item.databaseTree.name
-extratrees:machine:0, 锯木机
-extratrees:machine:1, 木材作坊
-extratrees:machine:2, 镶板作坊
-extratrees:machine:4, 水果压榨机
-extratrees:machine:5, 发酵机
-extratrees:machine:6, 蒸馏器
-extratrees:machine:7, 玻璃作坊
+extratrees:databaselepi, item.databaseLepi.name
 extratrees:carpentry, tile.null.name
 extratrees:carpentrypanel, tile.null.name
 extratrees:stainedglass, tile.null.name
-extratrees:drink:0, 啤酒杯
-extratrees:drink:0, 品脱杯
-extratrees:drink:0, 窄口酒杯
-extratrees:drink:0, 细长酒杯
-extratrees:drink:0, 鸡尾酒杯
-extratrees:drink:0, 甜果汁杯
-extratrees:drink:0, 可林斯杯
-extratrees:drink:0, 高球杯
-extratrees:drink:0, 飓风杯
-extratrees:drink:0, 玛格丽塔酒杯
-extratrees:drink:0, 老式酒杯
-extratrees:drink:0, 葡萄酒杯
-extratrees:drink:0, 小酒杯
-extratrees:drink:0, 雪利酒杯
-extratrees:drink:0, 香槟杯
-extratrees:drink:0, 葡萄酒杯
-extratrees:databaselepi, item.databaseLepi.name
 extratrees:binnie.juice.apple, 苹果汁
 extratrees:binnie.juice.apricot, 杏汁
 extratrees:binnie.juice.banana, 香蕉汁
@@ -22783,6 +22783,27 @@ claybucket:unfiredclaybucket, 未烧制的粘土桶
 claybucket:claybucket:0, 粘土桶
 claybucket:claybucket:1, 粘土水桶
 claybucket:claybucket:2, 粘土熔岩桶
+storagedrawers:upgrade_template, 升级模板
+storagedrawers:upgrade_storage:0, 抽屉容量升级（I）
+storagedrawers:upgrade_storage:1, 抽屉容量升级（II）
+storagedrawers:upgrade_storage:2, 抽屉容量升级（III）
+storagedrawers:upgrade_storage:3, 抽屉容量升级（IV）
+storagedrawers:upgrade_storage:4, 抽屉容量升级（V）
+storagedrawers:upgrade_one_stack, 存储降级
+storagedrawers:upgrade_status:0, 状态显示升级（I）
+storagedrawers:upgrade_status:1, 状态显示升级（II）
+storagedrawers:upgrade_void, 清空升级
+storagedrawers:upgrade_conversion, 转换升级
+storagedrawers:upgrade_creative:0, 创造模式容量升级
+storagedrawers:upgrade_creative:1, 创造模式取出升级
+storagedrawers:upgrade_redstone:0, 红石升级
+storagedrawers:upgrade_redstone:1, 红石升级（最大）
+storagedrawers:upgrade_redstone:2, 红石升级（最小）
+storagedrawers:drawer_key, 抽屉钥匙
+storagedrawers:shroud_key, 屏蔽钥匙
+storagedrawers:personal_key, 私人钥匙
+storagedrawers:quantify_key, 量化钥匙
+storagedrawers:tape, 打包带
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
@@ -22833,27 +22854,6 @@ storagedrawers:customdrawers:2, 2x2 镶框抽屉
 storagedrawers:customdrawers:3, 1x2 小型镶框抽屉
 storagedrawers:customdrawers:4, 2x2 小型镶框抽屉
 storagedrawers:customtrim, 镶框
-storagedrawers:upgrade_template, 升级模板
-storagedrawers:upgrade_storage:0, 抽屉容量升级（I）
-storagedrawers:upgrade_storage:1, 抽屉容量升级（II）
-storagedrawers:upgrade_storage:2, 抽屉容量升级（III）
-storagedrawers:upgrade_storage:3, 抽屉容量升级（IV）
-storagedrawers:upgrade_storage:4, 抽屉容量升级（V）
-storagedrawers:upgrade_one_stack, 存储降级
-storagedrawers:upgrade_status:0, 状态显示升级（I）
-storagedrawers:upgrade_status:1, 状态显示升级（II）
-storagedrawers:upgrade_void, 清空升级
-storagedrawers:upgrade_conversion, 转换升级
-storagedrawers:upgrade_creative:0, 创造模式容量升级
-storagedrawers:upgrade_creative:1, 创造模式取出升级
-storagedrawers:upgrade_redstone:0, 红石升级
-storagedrawers:upgrade_redstone:1, 红石升级（最大）
-storagedrawers:upgrade_redstone:2, 红石升级（最小）
-storagedrawers:drawer_key, 抽屉钥匙
-storagedrawers:shroud_key, 屏蔽钥匙
-storagedrawers:personal_key, 私人钥匙
-storagedrawers:quantify_key, 量化钥匙
-storagedrawers:tape, 打包带
 compactdrawers:compact_drawer_2by1, 1x2 压缩抽屉
 compactdrawers:compact_drawer_2by1_half, 1x2 小型压缩抽屉
 compactdrawers:compact_drawer_half, 小型压缩抽屉
@@ -24335,24 +24335,6 @@ rftools:ender_monitor, 末影显示器
 rftools:storage_scanner, 存储检测器
 rftools:elevator, 电梯
 rftools:booster, 加成器
-ironchest:iron_gold_chest_upgrade, 箱子升级：铁>金
-ironchest:gold_diamond_chest_upgrade, 箱子升级：金>钻石
-ironchest:copper_silver_chest_upgrade, 箱子升级：铜>银
-ironchest:silver_gold_chest_upgrade, 箱子升级：银>金
-ironchest:copper_iron_chest_upgrade, 箱子升级：铜>铁
-ironchest:diamond_crystal_chest_upgrade, 箱子升级：钻石>水晶
-ironchest:wood_iron_chest_upgrade, 箱子升级：木>铁
-ironchest:wood_copper_chest_upgrade, 箱子升级：木>铜
-ironchest:diamond_obsidian_chest_upgrade, 箱子升级：钻石>黑曜石
-ironchest:iron_gold_shulker_upgrade, 潜影盒升级：铁>金
-ironchest:gold_diamond_shulker_upgrade, 潜影盒升级：金>钻石
-ironchest:copper_silver_shulker_upgrade, 潜影盒升级：铜>银
-ironchest:silver_gold_shulker_upgrade, 潜影盒升级：银>金
-ironchest:copper_iron_shulker_upgrade, 潜影盒升级：铜>铁
-ironchest:diamond_crystal_shulker_upgrade, 潜影盒升级：钻石>水晶
-ironchest:vanilla_iron_shulker_upgrade, 潜影盒升级：原版>铁
-ironchest:vanilla_copper_shulker_upgrade, 潜影盒升级：原版>铜
-ironchest:diamond_obsidian_shulker_upgrade, 潜影盒升级：钻石>黑曜石
 ironchest:iron_chest:0, 铁箱子
 ironchest:iron_chest:1, 金箱子
 ironchest:iron_chest:2, 钻石箱子
@@ -24473,6 +24455,24 @@ ironchest:iron_shulker_box_black:3, 黑色铜质潜影盒
 ironchest:iron_shulker_box_black:4, 黑色银质潜影盒
 ironchest:iron_shulker_box_black:5, 黑色水晶潜影盒
 ironchest:iron_shulker_box_black:6, 黑色黑曜石潜影盒
+ironchest:iron_gold_chest_upgrade, 箱子升级：铁>金
+ironchest:gold_diamond_chest_upgrade, 箱子升级：金>钻石
+ironchest:copper_silver_chest_upgrade, 箱子升级：铜>银
+ironchest:silver_gold_chest_upgrade, 箱子升级：银>金
+ironchest:copper_iron_chest_upgrade, 箱子升级：铜>铁
+ironchest:diamond_crystal_chest_upgrade, 箱子升级：钻石>水晶
+ironchest:wood_iron_chest_upgrade, 箱子升级：木>铁
+ironchest:wood_copper_chest_upgrade, 箱子升级：木>铜
+ironchest:diamond_obsidian_chest_upgrade, 箱子升级：钻石>黑曜石
+ironchest:iron_gold_shulker_upgrade, 潜影盒升级：铁>金
+ironchest:gold_diamond_shulker_upgrade, 潜影盒升级：金>钻石
+ironchest:copper_silver_shulker_upgrade, 潜影盒升级：铜>银
+ironchest:silver_gold_shulker_upgrade, 潜影盒升级：银>金
+ironchest:copper_iron_shulker_upgrade, 潜影盒升级：铜>铁
+ironchest:diamond_crystal_shulker_upgrade, 潜影盒升级：钻石>水晶
+ironchest:vanilla_iron_shulker_upgrade, 潜影盒升级：原版>铁
+ironchest:vanilla_copper_shulker_upgrade, 潜影盒升级：原版>铜
+ironchest:diamond_obsidian_shulker_upgrade, 潜影盒升级：钻石>黑曜石
 jaffa:citricacid, 柠檬酸
 jaffa:vanillamilkshake, 香草奶昔
 jaffa:chipssaltvinegar, 盐醋薯片
@@ -24898,30 +24898,30 @@ rftoolsdim:structure_essence:9, 沙漠神殿结构要素
 rftoolsdim:structure_essence:10, 丛林神殿结构要素
 rftoolsdim:structure_essence:11, 雪屋结构要素
 rftoolsdim:known_dimlet:1, 流体信息卡 (水)
-rftoolsdim:known_dimlet:12, 控制器信息卡 (Single)
-rftoolsdim:known_dimlet:4, 天空信息卡 (Normal day)
-rftoolsdim:known_dimlet:6, 地形信息卡 (Flat)
-rftoolsdim:known_dimlet:3, 生物信息卡 (Default)
-rftoolsdim:known_dimlet:4, 天空信息卡 (Normal night)
-rftoolsdim:known_dimlet:9, 数位信息卡 (5)
-rftoolsdim:known_dimlet:9, 数位信息卡 (4)
-rftoolsdim:known_dimlet:10, 效果信息卡 (None)
-rftoolsdim:known_dimlet:9, 数位信息卡 (7)
-rftoolsdim:known_dimlet:9, 数位信息卡 (6)
-rftoolsdim:known_dimlet:9, 数位信息卡 (9)
-rftoolsdim:known_dimlet:9, 数位信息卡 (8)
-rftoolsdim:known_dimlet:13, 天气信息卡 (Default)
-rftoolsdim:known_dimlet:5, 结构信息卡 (None)
-rftoolsdim:known_dimlet:9, 数位信息卡 (1)
-rftoolsdim:known_dimlet:9, 数位信息卡 (0)
-rftoolsdim:known_dimlet:9, 数位信息卡 (3)
-rftoolsdim:known_dimlet:4, 天空信息卡 (Normal)
-rftoolsdim:known_dimlet:9, 数位信息卡 (2)
+rftoolsdim:known_dimlet:8, 时间信息卡 (Normal)
 rftoolsdim:known_dimlet:6, 地形信息卡 (Void)
 rftoolsdim:known_dimlet:12, 控制器信息卡 (Default)
 rftoolsdim:known_dimlet:7, 特征信息卡 (None)
-rftoolsdim:known_dimlet:8, 时间信息卡 (Normal)
+rftoolsdim:known_dimlet:9, 数位信息卡 (6)
+rftoolsdim:known_dimlet:4, 天空信息卡 (Normal day)
+rftoolsdim:known_dimlet:9, 数位信息卡 (7)
+rftoolsdim:known_dimlet:9, 数位信息卡 (4)
+rftoolsdim:known_dimlet:9, 数位信息卡 (5)
+rftoolsdim:known_dimlet:6, 地形信息卡 (Flat)
+rftoolsdim:known_dimlet:13, 天气信息卡 (Default)
+rftoolsdim:known_dimlet:9, 数位信息卡 (8)
+rftoolsdim:known_dimlet:4, 天空信息卡 (Normal)
+rftoolsdim:known_dimlet:9, 数位信息卡 (9)
+rftoolsdim:known_dimlet:10, 效果信息卡 (None)
+rftoolsdim:known_dimlet:9, 数位信息卡 (2)
+rftoolsdim:known_dimlet:9, 数位信息卡 (3)
+rftoolsdim:known_dimlet:9, 数位信息卡 (0)
+rftoolsdim:known_dimlet:9, 数位信息卡 (1)
 rftoolsdim:known_dimlet:2, 材料信息卡 (石头)
+rftoolsdim:known_dimlet:3, 生物信息卡 (Default)
+rftoolsdim:known_dimlet:5, 结构信息卡 (None)
+rftoolsdim:known_dimlet:4, 天空信息卡 (Normal night)
+rftoolsdim:known_dimlet:12, 控制器信息卡 (Single)
 rftoolsdim:efficiency_essence, 效率要素
 rftoolsdim:mediocre_efficiency_essence, 平庸的效率要素
 rftoolsdim:empty_dimension_tab, 空白世界构建模板
@@ -25237,7 +25237,6 @@ thaumicaugmentation:augment_builder_effect:0, 增效水晶：耗能减少
 thaumicaugmentation:morphic_tool, 变形工具
 thaumicaugmentation:primal_cutter:0, 元始刃
 thaumicaugmentation:primal_cutter:0, 元始刃
-thaumicenergistics:infusion_provider, 源质供应器
 thaumicenergistics:essentia_cell_1k, 1k-ME源质存储元件
 thaumicenergistics:essentia_cell_4k, 4k-ME源质存储元件
 thaumicenergistics:essentia_cell_16k, 16k-ME源质存储元件
@@ -25256,6 +25255,7 @@ thaumicenergistics:essentia_component_16k, 16k-ME源质存储组件
 thaumicenergistics:essentia_component_64k, 64k-ME源质存储组件
 thaumicenergistics:upgrade_arcane, 奥术充能升级
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
+thaumicenergistics:infusion_provider, 源质供应器
 thaumictinkerer:funnel, 源质漏斗
 thaumictinkerer:dissimulation, 伪装方块
 thaumictinkerer:transvector_interface, 矢量变换接口
